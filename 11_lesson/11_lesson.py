@@ -1,4 +1,6 @@
 # This lesson have no homework
+# The theme is Intro to the FastAPI
+# https://fastapi.tiangolo.com/tutorial/
 
 """
 from enum import Enum
