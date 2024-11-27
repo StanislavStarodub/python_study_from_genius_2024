@@ -66,4 +66,4 @@ def delete_user(user_id: int, db: Session = Depends(get_db)):
     crud.delete_user(db=db, user=user)
     return "User was deleted succsessfully"
 
-# to start server type in the shell: fastapi dev 11_lesson.py
+# to start server type in the shell: fastapi dev sql_app/main.py
